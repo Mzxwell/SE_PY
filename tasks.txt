@@ -1,0 +1,8 @@
+completed:play baseball
+completed:go shopping
+todo:discuss question
+todo:programming
+completed:do eye exercises
+todo:play games
+completed:do eye exercises
+todo:play games
