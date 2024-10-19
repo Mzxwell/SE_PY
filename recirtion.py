@@ -1,5 +1,3 @@
-from pprint import pprint
-
 B = ["a", "b"]
 c_star = set()
 n = int(input())
@@ -35,5 +33,7 @@ def build(set0):
 
 
 build([])
-pprint(c_star)
+my_list = list(c_star)
+for i in range(0, len(my_list), 5):
+    print(", ".join(my_list[i:i + 5]))
 print(len(c_star))
